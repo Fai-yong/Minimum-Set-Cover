@@ -74,13 +74,9 @@ The following are the key highlights of our contributions:
 
 Optimal or nearly optimal results: After running a gamut of tests on different parameter combinations, we found that the algorithm produced optimal or nearly optimal solutions. The "Test Sample Parameters" file shows that our program did an exemplary job of balancing runtime and optimal outcomes. Our algorithm's error rate, compared to optimal solutions, ranged from 5% to 30%, and time within 10 seconds.
 
-![image](https://github.com/Fai-yong/Minimum-Set-Cover/blob/main/image/bar%20chart.png)
-
-![image](https://github.com/Fai-yong/Minimum-Set-Cover/blob/main/image/line%20chart.png)
+![bar chart](https://github.com/Fai-yong/Minimum-Set-Cover/blob/main/image/bar%20chart.svg)
 
 
-## V. Problems and Challenges Encountered
-Discusses challenges in group quantity determination, grouping methods, balancing runtime with error rates, and the complexity of the algorithm.
+![image](https://github.com/Fai-yong/Minimum-Set-Cover/blob/main/image/line%20chart.svg)
 
-## VI. Installation and Execution
-Provides simplified steps for running the program, including the installation process, UI interface creation, and input methods for n sets.
+
